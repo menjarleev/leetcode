@@ -3,7 +3,7 @@
  *
  * [1361] Validate Binary Tree Nodes
  */
- #include <vector.h>
+#include <vector.h>
 using namespace std;
 
 // @lc code=start
